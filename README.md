@@ -4,7 +4,7 @@
 
 #### By Zack Worrix
 
-## Webpagee practicing columns and floats with information focused on Wu-Tang Clan
+## Webpage practicing columns and floats with information focused on Wu-Tang Clan
 
 ## Setup/Installation
 
