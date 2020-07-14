@@ -1,0 +1,18 @@
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: yellow;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.column {
+    width: 70%;
+    float: right;
+}
